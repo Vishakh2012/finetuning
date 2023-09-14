@@ -29,7 +29,7 @@ Clone this repository to your local machine:
 
 ```bash
 
-git clone https://github.com/yourusername/finetune-distilbert.git
+git clone https://github.com/Vishakh2012/finetuning.git
 ```
 
 ### **Notebook**
@@ -39,7 +39,7 @@ To run the fine-tuning Jupyter notebook, navigate to the project directory and o
 ```bash
 
 cd finetune-distilbert
-jupyter notebook fine_tune_distilbert.ipynb
+jupyter notebook sarcasm_detector.ipynb
 ```
 
 Follow the instructions within the notebook to execute the code and fine-tune the DistilBERT model on your specific classification task.
