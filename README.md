@@ -32,7 +32,7 @@ Clone this repository to your local machine:
 git clone https://github.com/yourusername/finetune-distilbert.git
 ```
 
-Notebook
+### **Notebook**
 
 To run the fine-tuning Jupyter notebook, navigate to the project directory and open the Jupyter notebook:
 
