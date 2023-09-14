@@ -47,15 +47,15 @@ Contributing
 
 We encourage contributions from the community to make this project a valuable resource for learning about fine-tuning various NLP models. Here are some ways you can contribute:
 
-1.Experiment with Different Models: Try fine-tuning other pre-trained models like RoBERTa, GPT-3, or XLNet for different text classification tasks and share your findings.
+1. **Experiment with Different Models**: Try fine-tuning other pre-trained models like RoBERTa, GPT-3, or XLNet for different text classification tasks and share your findings.
 
-2.Add Datasets: Include additional datasets for various NLP tasks and document how to fine-tune models using these datasets.
+2. **Add Datasets**: Include additional datasets for various NLP tasks and document how to fine-tune models using these datasets.
 
-3.Performance Analysis: Conduct comprehensive performance analysis by evaluating models on different evaluation metrics and benchmark datasets.
+3. **Performance Analysis**: Conduct comprehensive performance analysis by evaluating models on different evaluation metrics and benchmark datasets.
 
-4.Code Improvements: If you identify any issues or have ideas for improving the code or documentation, please submit pull requests.
+4. **Code Improvements**: If you identify any issues or have ideas for improving the code or documentation, please submit pull requests.
 
-5.Tutorials and Guides: Create tutorials or documentation on fine-tuning models, explaining key concepts, and helping newcomers understand the process.
+5. **Tutorials and Guides**: Create tutorials or documentation on fine-tuning models, explaining key concepts, and helping newcomers understand the process.
 
 
 ###  **Get Involved**
